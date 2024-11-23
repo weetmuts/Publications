@@ -26,6 +26,18 @@
 }
 ```
 
+[https://wiki.event-b.org/images/RodinWorkshop2021_EVBT.pdf](https://wiki.event-b.org/images/RodinWorkshop2021_EVBT.pdf)
+
+```
+@inproceedings{2021FredrikOhrstromEVBT,
+  author    = {Fredrik \"Ohrstr\"om},
+  title     = {EVBT --- an Event-B tool for code generation and documentation},
+  year      = {2021},
+  maintitle = {ABZ 2021 Conference},
+  booktitle = {9th Rodin User and Developer Workshop},
+}
+```
+
 [2020_Fredrik_Ohrstrom_AI_Ny_Dynamik.pdf](2020_Fredrik_Ohrstrom_AI_Ny_Dynamik.pdf)
 
 ```
