@@ -11,7 +11,7 @@
 }
 ```
 
-[2017_Fredrik_Ohrstrom_Acquiescence_Swedish_Patent_Law.pdf]{2017_Fredrik_Ohrstrom_Acquiescence_Swedish_Patent_Law.pdf}
+[2017_Fredrik_Ohrstrom_Acquiescence_Swedish_Patent_Law.pdf](2017_Fredrik_Ohrstrom_Acquiescence_Swedish_Patent_Law.pdf)
 
 ```
 @mastersthesis{2017FredrikOhrstrom,
