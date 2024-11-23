@@ -1,5 +1,7 @@
 ## Publications and Presentations by Fredrik Öhrström
 
+[https://orcid.org/0009-0001-3435-681X](https://orcid.org/0009-0001-3435-681X)
+
 [2023_Fredrik_Ohrstrom_Reparera_Nyttjanderätter.pdf](2023_Fredrik_Ohrstrom_Reparera_Nyttjanderätter.pdf)
 
 ```
