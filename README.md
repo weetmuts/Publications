@@ -2,6 +2,19 @@
 
 [https://orcid.org/0009-0001-3435-681X](https://orcid.org/0009-0001-3435-681X)
 
+[xmlprague-2024-proceedings.pdf](https://archive.xmlprague.cz/2024/files/xmlprague-2024-proceedings.pdf)
+
+```
+@inproceedings{2023FredrikOhrstromXMQ,
+    author = {Fredrik \"Ohrstr\"om},
+    title  = {XMQ/HTMQ - see XML and HTML in a new light},
+    booktitle = {XML Prague 2024 Conference Proceedings},
+    organization = {Prague University of Economics and Business Prague, Czech Republic},
+    pages  = {85-98},
+    year   = {2023},
+}
+```
+
 [2023_Fredrik_Ohrstrom_Reparera_Nyttjanderätter.pdf](2023_Fredrik_Ohrstrom_Reparera_Nyttjanderätter.pdf)
 
 ```
