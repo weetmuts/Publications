@@ -31,12 +31,12 @@
 [2023_Fredrik_Ohrstrom_Integer_Overflow.pdf](2023_Fredrik_Ohrstrom_Integer_Overflow.pdf)
 
 ```
-@inproceedings{2023FredrikOhrstromEVBT,
-  author    = {Fredrik \"Ohrstr\"om},
-  title     = {Generating safe code to prevent or handle integer overflows inside Event-B actions formulas},
-  year      = {2023},
-  booktitle = {10th Rodin User and Developer Workshop},
-  address   = {Loria, Université de Lorraine},
+@unpublished{2023FredrikOhrstromEVBT,
+   author  = {Fredrik \"Ohrstr\"om},
+   title   = {Generating safe code to prevent or handle integer overflows inside Event-B actions formulas},
+   note    = {10th Rodin User and Developer Workshop},
+   howpublished = {Presentation},
+   year    = {2023},
 }
 ```
 
