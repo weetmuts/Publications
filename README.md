@@ -42,6 +42,8 @@
 
 [Proceedings 9th Rodin User and Developer Workshop 2021](https://www.researchgate.net/publication/352737651_Proceedings_of_the_9th_Rodin_User_and_Developer_Workshop_2021)
 
+[https://wiki.event-b.org/index.php/Rodin_Workshop_2021](https://wiki.event-b.org/index.php/Rodin_Workshop_2021)
+
 [2021_Fredrik_Ohrstrom_EVBT.pdf](2021_Fredrik_Ohrstrom_EVBT.pdf)
 
 ```
