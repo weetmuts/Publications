@@ -27,6 +27,7 @@
 ```
 
 [https://wiki.event-b.org/index.php/Rodin_Workshop_2023](https://wiki.event-b.org/index.php/Rodin_Workshop_2023)
+
 [2023_Fredrik_Ohrstrom_Integer_Overflow.pdf](2023_Fredrik_Ohrstrom_Integer_Overflow.pdf)
 
 ```
@@ -34,10 +35,8 @@
   author    = {Fredrik \"Ohrstr\"om},
   title     = {Generating safe code to prevent or handle integer overflows inside Event-B actions formulas},
   year      = {2023},
-  maintitle = {ABZ 2023},
   booktitle = {10th Rodin User and Developer Workshop},
-  organization = {Nancy, France},
-  pages     = {10-11}
+  address   = {Loria, Université de Lorraine},
 }
 ```
 
@@ -50,7 +49,6 @@
   author    = {Fredrik \"Ohrstr\"om},
   title     = {EVBT --- an Event-B tool for code generation and documentation},
   year      = {2021},
-  maintitle = {ABZ 2021 Conference},
   booktitle = {9th Rodin User and Developer Workshop},
   pages     = {10-11}
 }
