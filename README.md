@@ -27,7 +27,7 @@
 ```
 @inproceedings{2020FredrikOhrstromAI,
    author  = {Fredrik \"Ohrstr\"om},
-   title   = {Tekniken Juridiken Paniken},
+   title   = {AI --- Tekniken, Juridiken, Etiken (Paniken)},
    publisher = {Presented at SFIR, Stockholm},
    year    = {2020},
 }
