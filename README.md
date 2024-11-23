@@ -5,13 +5,13 @@
 [xmlprague-2024-proceedings.pdf](https://archive.xmlprague.cz/2024/files/xmlprague-2024-proceedings.pdf)
 
 ```
-@inproceedings{2023FredrikOhrstromXMQ,
+@inproceedings{2024FredrikOhrstromXMQ,
     author = {Fredrik \"Ohrstr\"om},
     title  = {XMQ/HTMQ - see XML and HTML in a new light},
     booktitle = {XML Prague 2024 Conference Proceedings},
     organization = {Prague University of Economics and Business Prague, Czech Republic},
     pages  = {85-98},
-    year   = {2023},
+    year   = {2024},
 }
 ```
 
