@@ -26,7 +26,24 @@
 }
 ```
 
-[https://wiki.event-b.org/images/RodinWorkshop2021_EVBT.pdf](https://wiki.event-b.org/images/RodinWorkshop2021_EVBT.pdf)
+[https://wiki.event-b.org/index.php/Rodin_Workshop_2023](https://wiki.event-b.org/index.php/Rodin_Workshop_2023)
+[2023_Fredrik_Ohrstrom_Integer_Overflow.pdf](2023_Fredrik_Ohrstrom_Integer_Overflow.pdf)
+
+```
+@inproceedings{2023FredrikOhrstromEVBT,
+  author    = {Fredrik \"Ohrstr\"om},
+  title     = {Generating safe code to prevent or handle integer overflows inside Event-B actions formulas},
+  year      = {2023},
+  maintitle = {ABZ 2023},
+  booktitle = {10th Rodin User and Developer Workshop},
+  organization = {Nancy, France},
+  pages     = {10-11}
+}
+```
+
+[Proceedings 9th Rodin User and Developer Workshop 2021](https://www.researchgate.net/publication/352737651_Proceedings_of_the_9th_Rodin_User_and_Developer_Workshop_2021)
+
+[2021_Fredrik_Ohrstrom_EVBT.pdf](2021_Fredrik_Ohrstrom_EVBT.pdf)
 
 ```
 @inproceedings{2021FredrikOhrstromEVBT,
@@ -35,6 +52,7 @@
   year      = {2021},
   maintitle = {ABZ 2021 Conference},
   booktitle = {9th Rodin User and Developer Workshop},
+  pages     = {10-11}
 }
 ```
 
