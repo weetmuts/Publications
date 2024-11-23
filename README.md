@@ -66,6 +66,6 @@
    author  = {Fredrik \"Ohrstr\"om},
    title   = {A Formalized Object Structure for Graphical User Interface Frameworks},
    school  = {School of Computer Science and Engineering at Royal Institue of Technology},
-   year    = {2017},
+   year    = {1998},
 }
 ```
