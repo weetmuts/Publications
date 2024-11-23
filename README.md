@@ -62,7 +62,8 @@
 @inproceedings{2020FredrikOhrstromAIDynamics,
    author  = {Fredrik \"Ohrstr\"om},
    title   = {Intressant ny dynamik med AI \& immaterialrätter},
-   publisher = {Presented at SFIR, Stockholm},
+   note    = {SFIR Seminar (The Swedish Association for the Protection of Intellectual Property) Stockholm},
+   howpublished = {Presentation},
    year    = {2020},
 }
 ```
@@ -70,10 +71,11 @@
 [2020_Fredrik_Ohrstrom_AI_Tekniken_Juridiken_Paniken.pdf](2020_Fredrik_Ohrstrom_AI_Tekniken_Juridiken_Paniken.pdf)
 
 ```
-@inproceedings{2020FredrikOhrstromAI,
+@unpublished{2020FredrikOhrstromAI,
    author  = {Fredrik \"Ohrstr\"om},
    title   = {AI --- Tekniken, Juridiken, Etiken (Paniken)},
-   publisher = {Presented at SFIR, Stockholm},
+   note    = {SFIR Seminar (The Swedish Association for the Protection of Intellectual Property) Stockholm},
+   howpublished = {Presentation},
    year    = {2020},
 }
 ```
