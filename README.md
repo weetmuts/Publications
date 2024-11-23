@@ -36,6 +36,7 @@
    title   = {Generating safe code to prevent or handle integer overflows inside Event-B actions formulas},
    note    = {10th Rodin User and Developer Workshop},
    howpublished = {Presentation},
+   address   = {Centre Inria de l'Université de Lorraine},
    year    = {2023},
 }
 ```
